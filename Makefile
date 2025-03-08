@@ -1,6 +1,7 @@
 # author: Jordan Bourak & Tiffany Timbers
 # date: 2021-11-22
 
+# "make all" will make everything
 all: results/horse_pop_plot_largest_sd.png \
 	results/horse_pops_plot.png \
 	results/horses_spread.csv \
