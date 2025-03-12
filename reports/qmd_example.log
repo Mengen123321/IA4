@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.3.7)  11 MAR 2025 23:12
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.3.7)  11 MAR 2025 23:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -827,16 +827,16 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 194.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
-LaTeX Warning: File `horse_pops_plot.png' not found on input line 222.
+LaTeX Warning: File `docs/horse_pops_plot.png' not found on input line 222.
 
-! Unable to load picture or PDF file 'horse_pops_plot.png'.
+! Unable to load picture or PDF file 'docs/horse_pops_plot.png'.
 <to be read again> 
                    }
-l.222 ...ght,keepaspectratio]{horse_pops_plot.png}
+l.222 ...eepaspectratio]{docs/horse_pops_plot.png}
                                                    
 Here is how much of TeX's memory you used:
- 21549 strings out of 475846
- 418338 string characters out of 5773212
+ 21550 strings out of 475846
+ 418583 string characters out of 5773212
  1086902 words of memory out of 5000000
  44249 multiletter control sequences out of 15000+600000
  562417 words of font info for 67 fonts, out of 8000000 for 9000
