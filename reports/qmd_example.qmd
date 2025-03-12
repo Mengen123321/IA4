@@ -53,7 +53,7 @@ largest_sd = horses_sd_table['Province'].values[0]
 Markdown(horses_sd_table.to_markdown(index=False))
 ```
 
-![Standard deviation of historical (1906-1972) horse populations for each Canadian province](../results/horses_sd.csv){#table1 width=65%}
+Table 1. Standard deviation of historical (1906-1972) horse populations for each Canadian province.
 
 Note that we define standard deviation (of a sample) as
 
